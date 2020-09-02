@@ -5,24 +5,24 @@ Today we are going to solve another boot2root challenge called “Sunset: Midnig
 
 ![Machine_Sunset_Midnight_DEMO GIF](https://github.com/MoonPengu/Sunset-Midnight-Ctf-Walkthrough/blob/master/Machine_Sunset_Midnight_GIF.gif)
 
-## Penetration Testing Methodology<br>
+## :beetle: Penetration Testing Methodology<br>
 
-### Reconnaissance<br>
+### :bug: Reconnaissance<br>
 :sunglasses:Nmap<br>
 
-### Enumeration<br>
+### :herb: Enumeration<br>
 Hydra bruteforce MySQL service<br>
 
-### Exploiting<br>
+### :imp: Exploiting<br>
 WordPress administrator’s password change<br>
 Modification of code to build a webshell<br>
 
-### Privilege Escalation<br>
+### :fire: Privilege Escalation<br>
 :sunglasses:Misuse of recycled passwords<br>
 :sunglasses:Binary abuse without fixed load path<br>
 :sunglasses:Capture the flag
 
-### Usage !!
+### :question: Usage !!
 :ghost: With the use of nmap 
 #### -sn 192.168.0/24
 we first see the networks connected to the host. It is basically a ping scan<br>
@@ -32,7 +32,7 @@ we first see the networks connected to the host. It is basically a ping scan<br>
 #### 192.168.43.91    sunset-midnight
 :ghost: Then we enumerate the target and see that its in Wordpress
 
-### Rest details you can see from the docs provided !!
+### :dart: Rest details you can see from the docs provided !!
 
 ### Thank you !! :pray:
 ## Enjoy :hugs:
