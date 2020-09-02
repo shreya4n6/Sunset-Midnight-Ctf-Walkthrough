@@ -18,4 +18,12 @@ Modification of code to build a webshell<br>
 ### Privilege Escalation<br>
 :sunglasses:Misuse of recycled passwords<br>
 :sunglasses:Binary abuse without fixed load path<br>
-:sunglasses:Capture the flag<br>
+:sunglasses:Capture the flag
+
+### Usage !!
+:ghost:With the use of nmap 
+### -sn 192.168.0/24
+we first see the networks connected to the host. It is basically a ping scan<br>
+:ghost:After we get the vm's ip(the vulnerable machine) we perform an aggressive scan with 
+### nmap -A
+
