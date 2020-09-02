@@ -32,7 +32,7 @@ we first see the networks connected to the host. It is basically a ping scan<br>
 #### 192.168.43.91    sunset-midnight
 :ghost: Then we enumerate the target and see that its in Wordpress
 
-### :dart: Rest details you can see from the docs provided !!
+### :dart: Rest details you can see from the docs provided !! :book:
 
 ### Thank you !! :pray:
 ## Enjoy :hugs:
