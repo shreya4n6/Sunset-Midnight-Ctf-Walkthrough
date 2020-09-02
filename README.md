@@ -21,9 +21,16 @@ Modification of code to build a webshell<br>
 :sunglasses:Capture the flag
 
 ### Usage !!
-:ghost:With the use of nmap 
-### -sn 192.168.0/24
+:ghost: With the use of nmap 
+#### -sn 192.168.0/24
 we first see the networks connected to the host. It is basically a ping scan<br>
-:ghost:After we get the vm's ip(the vulnerable machine) we perform an aggressive scan with 
-### nmap -A
+:ghost: After we get the vm's ip(the vulnerable machine) we perform an aggressive scan with 
+#### nmap -A
+:ghost: After that, We add the IP address and the “sunset-midnight” host to our “/etc/hosts” as indicated by the creator of the machine in the description. Like in my case:
+#### 192.168.43.91    sunset-midnight
+:ghost: Then we enumerate the target and see that its in Wordpress
 
+### Rest details you can see from the docs provided !!
+
+### Thank you !! :pray:
+## Enjoy :hugs:
