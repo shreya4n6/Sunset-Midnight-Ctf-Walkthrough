@@ -2,6 +2,7 @@
 Today we are going to solve another boot2root challenge called “Sunset: Midnight”.  It’s available at VulnHub for penetration testing and you can download it from here. The credit for making this lab goes to whitecr0wz. Let’s get started and learn how to successfully break it down.<br>
 
 Level: Intermediate<br>
+![Machine_Sunset_Midnight_DEMO GIF](https://github.com/MoonPengu/Sunset-Midnight-Ctf-Walkthrough/blob/master/Machine_Sunset_Midnight_GIF.gif)
 
 ## Penetration Testing Methodology<br>
 
