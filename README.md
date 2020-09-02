@@ -3,19 +3,19 @@ Today we are going to solve another boot2root challenge called “Sunset: Midnig
 
 Level: Intermediate<br>
 
-##Penetration Testing Methodology<br>
+## Penetration Testing Methodology<br>
 
-###Reconnaissance<br>
+### Reconnaissance<br>
 :sunglasses:Nmap<br>
 
-###Enumeration<br>
+### Enumeration<br>
 Hydra bruteforce MySQL service<br>
 
-###Exploiting<br>
+### Exploiting<br>
 WordPress administrator’s password change<br>
 Modification of code to build a webshell<br>
 
-###Privilege Escalation<br>
+### Privilege Escalation<br>
 :sunglasses:Misuse of recycled passwords<br>
 :sunglasses:Binary abuse without fixed load path<br>
 :sunglasses:Capture the flag<br>
